@@ -1,0 +1,3 @@
+pkill -f phantomjs
+cd /root/scrape/phantomjs-1.9.8-linux-x86_64/bin
+nohup phantomjs app.js &

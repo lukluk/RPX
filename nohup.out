@@ -1,0 +1,99 @@
+Loading a web page
+[object Object]
+
+opened
+success
+[object Object]
+Status: success
+TypeError: 'null' is not an object (evaluating 'document.querySelector('#mixpanel_object_name_holder').innerText')
+
+  phantomjs://webpage.evaluate():3
+  phantomjs://webpage.evaluate():36
+  phantomjs://webpage.evaluate():36
+http://search.rpxcorp.com/lit/txndce-211022-graftech-international-holdings-v-research-in-motion#simple2
+opened
+success
+Status: success
+[object Object]
+Status: success
+Error: cannot call function of deleted QObject
+
+  app.js:54
+Loading a web page
+exexe
+execFileSTDERR: ""
+exexe
+exexe
+exexe
+exexe
+exexe
+exexe
+execFileSTDERR: ""
+exexe
+exexe
+exexe
+exexe
+execFileSTDERR: ""
+exexe
+exexe
+Loading a web page
+Loading a web page
+Loading a web page
+exexe
+exexe
+exexe
+exexe
+exexe
+exexe
+exexe
+exexe
+exexe
+exexe
+Loading a web page
+exexe
+exexe
+execFileSTDERR: ""
+exexe
+execFileSTDERR: ""
+exexe
+exexe
+exexe
+exexe
+execFileSTDERR: ""
+exexe
+execFileSTDERR: ""
+exexe
+execFileSTDERR: ""
+exexe
+execFileSTDERR: ""
+exexe
+execFileSTDERR: ""
+exexe
+execFileSTDERR: ""
+exexe
+exexe
+exexe
+exexe
+exexe
+execFileSTDERR: ""
+execFileSTDERR: ""
+execFileSTDERR: ""
+execFileSTDERR: ""
+execFileSTDERR: ""
+execFileSTDERR: ""
+execFileSTDERR: ""
+execFileSTDERR: ""
+execFileSTDERR: ""
+exexe
+exexe
+exexe
+exexe
+exexe
+execFileSTDERR: ""
+Loading a web page
+exexe
+execFileSTDERR: ""
+exexe
+execFileSTDERR: ""
+exexe
+execFileSTDERR: ""
